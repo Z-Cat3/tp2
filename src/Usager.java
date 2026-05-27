@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Usager {
+public abstract class Usager {
     private String nom;
     private int ID;
     private ArrayList<Livre> listeEmprunts;
